@@ -1,4 +1,5 @@
 const { RtcTokenBuilder, RtcRole } = require('agora-access-token')
+require('dotenv').config()
 
 const appId = process.env.appId
 const appCertificate = process.env.appCertificate

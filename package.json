@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/allen-code/RTC_token_generator#readme",
   "dependencies": {
-    "agora-access-token": "^2.0.4"
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^10.0.0"
   }
 }
